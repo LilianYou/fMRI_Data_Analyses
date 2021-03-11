@@ -4,5 +4,5 @@ This repository only includes my own course work code. Thanks for the guidance f
 
 - [Create Probability Atlas](https://github.com/LilianYou/fMRI_Data_Analyses/tree/main/Statistical%20Analysis%20of%20fMRI%20Data/Create%20Probability%20Atlas)
 - [Detect Voxels Where Face Greater Than Place](https://github.com/LilianYou/fMRI_Data_Analyses/tree/main/Statistical%20Analysis%20of%20fMRI%20Data/Detect%20Voxels%20Where%20Face%20Greater%20Than%20Place)
-- [Dynamic Causal Modeling (DCM)]()
+- [Dynamic Causal Modeling (DCM)](https://github.com/LilianYou/fMRI_Data_Analyses/tree/main/Statistical%20Analysis%20of%20fMRI%20Data/DCM)
 
