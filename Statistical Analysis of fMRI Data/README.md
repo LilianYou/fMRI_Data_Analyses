@@ -2,7 +2,7 @@ Relevant Materials: Ashby, F. G.. [Statistical analysis of fMRI data, Second Edi
 
 This repository only includes my own course work code. Thanks for the guidance from [Prof. Greg Ashby](https://psych.ucsb.edu/people/faculty/greg-ashby).
 
-- Mask Creation
+- [Create Probability Atlas](https://github.com/LilianYou/fMRI_Data_Analyses/tree/main/Statistical%20Analysis%20of%20fMRI%20Data/Create%20Probability%20Atlas)
 
 
 
