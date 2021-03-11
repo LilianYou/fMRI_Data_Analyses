@@ -1,1 +1,0 @@
-In this task, I created left caudate mask for each subject, normalized it to the MNI template, then I create an atlas of left caudate by calculating the probability density from the 40 normalized images that I created.
